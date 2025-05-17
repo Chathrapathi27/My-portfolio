@@ -39,6 +39,9 @@
     #header .grid.upper .column:first-child{
         height: 200px;
     }
+    #header .profile__photo{
+        padding-right: 80px;
+    }
     #header .description{
         text-align: center;
     }
