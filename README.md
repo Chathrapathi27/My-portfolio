@@ -1,4 +1,3 @@
-Here’s your **updated README.md** for the repository **My-portfolio**, now including your **live site link**:
 
 ````markdown
 # My-portfolio 🌐  
