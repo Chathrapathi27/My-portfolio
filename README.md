@@ -1,9 +1,3 @@
-Excellent 😎 — here’s your **final, premium-quality `README.md`** for your portfolio repository — now featuring **colorful tech stack badges**, all your project info, and the live Netlify link.
-It’s perfectly formatted for GitHub and looks professional when rendered.
-
----
-
-````markdown
 # 💼 My-portfolio  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Chathrapathi27/My-portfolio?color=blue)
@@ -163,9 +157,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ⭐ **If you like this project, please give it a star on GitHub!**
 
-```
-
----
-
-Would you like me to include a **“Projects Showcase” section** in the README too (with cards or bullet links to each project inside your portfolio, like "E-commerce App", "Weather App", etc.)? It makes the portfolio README even more impressive.
-```
